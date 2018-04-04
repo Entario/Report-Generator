@@ -23,4 +23,5 @@ class Zipper:
         zip_ref.close()
 
     def pack(self):
-        make_archive(self.zip_file,'zip', 'temp')
+        make_archive(self.zip_file[:-3],'zip', 'temp/')
+        os.rename(self.zip_file, self.file_name)
