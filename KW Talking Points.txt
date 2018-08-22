@@ -1,0 +1,20 @@
+KW talking points:
+
+ BUILD LOG PARSE ERROR ON 32/35 wlan source files  (waiting for reply) 
+
+ Account for ProviuMirror server (still waiting for reply)
+
+ Run a new analysis (easy script steps)
+ Add a new project (difficult to add at the moment)
+ Download pdf of report (waiting for reply)
+
+ Reply from klockwork contact about: (no response yet)
+  *inheritance tree depth
+  *number of methods per class
+
+
+
+
+
+uidr9754
+conti123 
